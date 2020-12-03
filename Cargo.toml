@@ -1,0 +1,8 @@
+[package]
+name = "aoc-rust-2020"
+version = "0.0.1"
+
+[dependencies]
+itertools = "0.9"
+regex = "1"
+lazy_static = "1.4.0"
