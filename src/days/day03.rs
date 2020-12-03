@@ -2,7 +2,7 @@ struct Map {
     rows: Vec<Vec<Type>>
 }
 
-#[derive(Copy, Clone)]
+#[derive(Debug, Copy, Clone)]
 enum Type {
     TREE,
     EMPTY,
