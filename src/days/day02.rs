@@ -1,6 +1,4 @@
 use regex::Regex;
-use itertools::Itertools;
-use std::ops::BitXor;
 
 #[derive(Debug, Clone)]
 struct Password {
